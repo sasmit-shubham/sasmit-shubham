@@ -6,11 +6,12 @@
 <br />
 
 [Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
-
+-Looking for an SDE internship. I possess a very good understanding of Full stack development fundamentals with proficiency in Data structures and algorithms. I have excellent problem-solving skills with the agility to learn any tech stack with very little guidance.
+- 🏫 I am currently 3rd year undergraduate at IIIT CHENNAI
 - 🔭 I’m currently working on CoderSabha | Drop in Audio Chat Application 
-- 🌱 I’m currently learning React and Redux
-- 👯 I’m looking to collaborate on React Project
-- 🤔 I’m looking SDE intern
+- 🌱 I’m currently learning Full Stack developement
+- 👯 I’m looking to collaborate on MERN project.
+- 🤔 I’m looking for SDE intern
 - 💬 Ask me about ...
 - 😄 Pronouns: He/His
 - 📫 How to reach me: 
