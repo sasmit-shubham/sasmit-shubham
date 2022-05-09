@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-sasmit-shubham)
 <br />
 
-[Resume](https://drive.google.com/file/d/1caRsug7Y2PpacJPiK9l6aDCkQkbP2ftR/view)
+[Resume](https://drive.google.com/file/d/1mfGt7nd2RIhY_Dqj-JIqOkSeb_126Smn/view?usp=sharing)  
 -Looking for an SDE internship. I possess a very good understanding of Full stack development fundamentals with proficiency in Data structures and algorithms. I have excellent problem-solving skills with the agility to learn any tech stack with very little guidance.
 - 🏫 I am currently 3rd year undergraduate at IIIT CHENNAI
 - 🔭 I’m currently working on CoderSabha | Drop in Audio Chat Application 
